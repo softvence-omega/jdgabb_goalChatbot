@@ -1,0 +1,6 @@
+# requirements.txt
+fastapi
+uvicorn
+pydantic
+openai==0.28
+python-dotenv
