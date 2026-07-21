@@ -1,5 +1,7 @@
 # main.py
 
+import utils.transport
+import utils.session
 from fastapi import FastAPI
 from app.api.v1.endpoints import project_task_question  # Import the consolidated file
 
